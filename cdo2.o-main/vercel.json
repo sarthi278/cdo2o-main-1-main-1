@@ -11,6 +11,6 @@
     { "src": "/(.*)", "dest": "/index.html" }
   ],
   "env": {
-    "VITE_API_URL": "YOUR_BACKEND_URL"
+    "VITE_API_URL": "https://cdo2-o-main-1.onrender.com/api"
   }
 } 
